@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>隱私權政策</title>
-  <style>
-    body {
-      font-family: "Segoe UI", "Helvetica Neue", "Arial", sans-serif;
-      line-height: 1.6;
-      padding: 2em;
-      max-width: 800px;
-      margin: auto;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #34495e;
-      margin-top: 1.5em;
-    }
-  </style>
-</head>
-<body>
 
   <h1>隱私權政策</h1>
 
